@@ -7,5 +7,5 @@ Week_2_Lesson_2_2 show each run yield different weights and slightly different p
 
 
 
-## RNN Huber loss
+## RNN Huber loss - better for data with noise and outliers
 https://en.wikipedia.org/wiki/Huber_loss
